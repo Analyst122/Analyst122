@@ -10,6 +10,8 @@
 - [Google Cybersecurity](https://coursera.org/verify/professional-cert/96K3MBHCCPDH)
 - [CompTIA Security+](http://verify.CompTIA.org)
 - [CompTIA CySA+](http://verify.comptia.org/)
+- [CompTIA Pentest+](http://verify.CompTIA.org)
+- ISC2 CC
 <h2> 🤳 Connect with me:</h2>
 
 
